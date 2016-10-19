@@ -1,0 +1,67 @@
+﻿@{
+    ViewBag.Title = "UIRoutting";
+    ViewBag.app = "myApp";
+}
+
+@section Header{
+    <base href="/Home/MultipleViews/">
+
+    <script src='@Url.Content("~/Scripts/angular-ui-router.js")'></script>
+    
+}
+
+<h2>UIRoutting</h2>
+
+<body>
+    <ul class="menu">
+        <li><a ui-sref="view1">view1</a></li>
+        <li><a ui-sref="view2">view2</a></li>
+    </ul>
+    <div ui-view></div>
+</body>
+
+<script>
+
+    angular.module('myApp', [
+        'myApp.controllers',
+        'ui.router'
+    ]);
+
+    angular.module('myApp').config(function ($stateProvider,$urlRouterProvider, $locationProvider) {
+        $stateProvider.state('view1', {
+            url: '/view1',
+            controller: 'Controller1',
+            templateUrl:'@Url.Content("~/partials/view1.html")'
+        }).state('view2', {
+            url: '/view2/:firstname/:lastname',
+            controller: 'Controller2',
+            resolve: {
+                names: function () {
+                    //typically you will use a service to retrieve values from the server here
+                    return ['Misko', 'Vojta', 'Brad']; //this is used as dependency value
+                }
+            },
+            templateUrl: '@Url.Content("~/partials/view2.html")'
+        });
+        //$urlRouterProvider.otherwise('/view1');
+        $locationProvider.html5Mode(true);
+    });
+
+    angular.module('myApp.controllers', []).controller('Controller1', function ($scope, $location, $state) {
+        $scope.message = "Hello, world";
+
+        $scope.loadView2 = function () {
+            $state.go('view2', {
+                firstname: $scope.firstname,
+                lastname: $scope.lastname
+            });
+        }
+    }).controller('Controller2', function ($scope, $stateParams, names) {
+        $scope.firstname = $stateParams.firstname;
+        $scope.lastname = $stateParams.lastname;
+        $scope.names = names;
+
+        $scope.now=new Date();
+    });
+
+</script>

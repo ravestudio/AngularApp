@@ -1,0 +1,35 @@
+﻿@{
+    ViewBag.Title = "TwoWayBinding";
+    ViewBag.app = string.Empty;
+}
+
+<h2>TwoWayBinding</h2>
+
+<body ng-init="name='AngularJS'">
+    <input type="text" ng-model="name" />
+    <div><h2>Hello, {{name}}</h2></div>
+    
+</body>
+
+<script>
+    function Car(color,steering){
+        this.color=color;
+        this.steering=steering;
+    }
+    //Car.prototype.year=2012; // Car is a functional object, so it has the `prototype` property
+    var car = new Car('red', 'left');
+    var car2 = new Car('red', 'left');
+
+    Car.prototype.data = {}; //set it to empty object Now have a look at the following code:
+
+    car.data.engine = 'rear'; //This does not create a new property ➥called 'data' on car object
+    car2.data.engine = 'qwe';
+
+    console.log(car.data.engine); //returns 'rear' and it comes from ➥Car.prototype
+    console.log(car.hasOwnProperty('data')); // false, as car ➥doesn't have own property 'data'
+    console.log(Car.prototype.hasOwnProperty('data')); // 'data' property is➥created in prototype.
+
+        console.log(car.color); // prints color from car
+        console.log(car.year()); //prints year from Car.prototype
+        console.log(car.hasOwnProperty('year')); //returns false
+</script>

@@ -1,0 +1,245 @@
+d:\Мои документы\Visual Studio 2013\Projects\AngularApp\AngularApp\obj\Debug\AngularApp.csprojResolveAssemblyReference.cache
+d:\Мои документы\Visual Studio 2013\Projects\AngularApp\AngularApp\bin\AngularApp.dll.config
+d:\Мои документы\Visual Studio 2013\Projects\AngularApp\AngularApp\bin\AngularApp.dll
+d:\Мои документы\Visual Studio 2013\Projects\AngularApp\AngularApp\bin\AngularApp.pdb
+d:\Мои документы\Visual Studio 2013\Projects\AngularApp\AngularApp\bin\Antlr3.Runtime.dll
+d:\Мои документы\Visual Studio 2013\Projects\AngularApp\AngularApp\bin\DotNetOpenAuth.AspNet.dll
+d:\Мои документы\Visual Studio 2013\Projects\AngularApp\AngularApp\bin\DotNetOpenAuth.Core.dll
+d:\Мои документы\Visual Studio 2013\Projects\AngularApp\AngularApp\bin\DotNetOpenAuth.OAuth.Consumer.dll
+d:\Мои документы\Visual Studio 2013\Projects\AngularApp\AngularApp\bin\DotNetOpenAuth.OAuth.dll
+d:\Мои документы\Visual Studio 2013\Projects\AngularApp\AngularApp\bin\DotNetOpenAuth.OpenId.dll
+d:\Мои документы\Visual Studio 2013\Projects\AngularApp\AngularApp\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+d:\Мои документы\Visual Studio 2013\Projects\AngularApp\AngularApp\bin\EntityFramework.dll
+d:\Мои документы\Visual Studio 2013\Projects\AngularApp\AngularApp\bin\Microsoft.Data.Edm.dll
+d:\Мои документы\Visual Studio 2013\Projects\AngularApp\AngularApp\bin\Microsoft.Data.OData.dll
+d:\Мои документы\Visual Studio 2013\Projects\AngularApp\AngularApp\bin\Microsoft.Web.Infrastructure.dll
+d:\Мои документы\Visual Studio 2013\Projects\AngularApp\AngularApp\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+d:\Мои документы\Visual Studio 2013\Projects\AngularApp\AngularApp\bin\Microsoft.Web.WebPages.OAuth.dll
+d:\Мои документы\Visual Studio 2013\Projects\AngularApp\AngularApp\bin\Newtonsoft.Json.dll
+d:\Мои документы\Visual Studio 2013\Projects\AngularApp\AngularApp\bin\System.Spatial.dll
+d:\Мои документы\Visual Studio 2013\Projects\AngularApp\AngularApp\bin\System.Web.Helpers.dll
+d:\Мои документы\Visual Studio 2013\Projects\AngularApp\AngularApp\bin\System.Web.Http.OData.dll
+d:\Мои документы\Visual Studio 2013\Projects\AngularApp\AngularApp\bin\System.Web.Mvc.dll
+d:\Мои документы\Visual Studio 2013\Projects\AngularApp\AngularApp\bin\System.Web.Optimization.dll
+d:\Мои документы\Visual Studio 2013\Projects\AngularApp\AngularApp\bin\System.Web.Razor.dll
+d:\Мои документы\Visual Studio 2013\Projects\AngularApp\AngularApp\bin\System.Web.WebPages.Deployment.dll
+d:\Мои документы\Visual Studio 2013\Projects\AngularApp\AngularApp\bin\System.Web.WebPages.dll
+d:\Мои документы\Visual Studio 2013\Projects\AngularApp\AngularApp\bin\System.Web.WebPages.Razor.dll
+d:\Мои документы\Visual Studio 2013\Projects\AngularApp\AngularApp\bin\WebGrease.dll
+d:\Мои документы\Visual Studio 2013\Projects\AngularApp\AngularApp\bin\WebMatrix.Data.dll
+d:\Мои документы\Visual Studio 2013\Projects\AngularApp\AngularApp\bin\WebMatrix.WebData.dll
+d:\Мои документы\Visual Studio 2013\Projects\AngularApp\AngularApp\bin\EntityFramework.xml
+d:\Мои документы\Visual Studio 2013\Projects\AngularApp\AngularApp\bin\Newtonsoft.Json.xml
+d:\Мои документы\Visual Studio 2013\Projects\AngularApp\AngularApp\bin\System.Web.Helpers.xml
+d:\Мои документы\Visual Studio 2013\Projects\AngularApp\AngularApp\bin\System.Web.Mvc.xml
+d:\Мои документы\Visual Studio 2013\Projects\AngularApp\AngularApp\bin\System.Web.Razor.xml
+d:\Мои документы\Visual Studio 2013\Projects\AngularApp\AngularApp\bin\System.Web.WebPages.xml
+d:\Мои документы\Visual Studio 2013\Projects\AngularApp\AngularApp\bin\System.Web.WebPages.Deployment.xml
+d:\Мои документы\Visual Studio 2013\Projects\AngularApp\AngularApp\bin\System.Web.WebPages.Razor.xml
+d:\Мои документы\Visual Studio 2013\Projects\AngularApp\AngularApp\bin\WebMatrix.Data.xml
+d:\Мои документы\Visual Studio 2013\Projects\AngularApp\AngularApp\bin\Microsoft.Web.WebPages.OAuth.xml
+d:\Мои документы\Visual Studio 2013\Projects\AngularApp\AngularApp\bin\WebMatrix.WebData.xml
+d:\Мои документы\Visual Studio 2013\Projects\AngularApp\AngularApp\bin\DotNetOpenAuth.AspNet.xml
+d:\Мои документы\Visual Studio 2013\Projects\AngularApp\AngularApp\bin\DotNetOpenAuth.Core.xml
+d:\Мои документы\Visual Studio 2013\Projects\AngularApp\AngularApp\bin\DotNetOpenAuth.OAuth.Consumer.xml
+d:\Мои документы\Visual Studio 2013\Projects\AngularApp\AngularApp\bin\DotNetOpenAuth.OAuth.xml
+d:\Мои документы\Visual Studio 2013\Projects\AngularApp\AngularApp\bin\DotNetOpenAuth.OpenId.xml
+d:\Мои документы\Visual Studio 2013\Projects\AngularApp\AngularApp\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+d:\Мои документы\Visual Studio 2013\Projects\AngularApp\AngularApp\bin\System.Web.Http.OData.xml
+d:\Мои документы\Visual Studio 2013\Projects\AngularApp\AngularApp\bin\Microsoft.Data.Edm.xml
+d:\Мои документы\Visual Studio 2013\Projects\AngularApp\AngularApp\bin\Microsoft.Data.OData.xml
+d:\Мои документы\Visual Studio 2013\Projects\AngularApp\AngularApp\bin\System.Spatial.xml
+d:\Мои документы\Visual Studio 2013\Projects\AngularApp\AngularApp\bin\de\Microsoft.Data.Edm.resources.dll
+d:\Мои документы\Visual Studio 2013\Projects\AngularApp\AngularApp\bin\es\Microsoft.Data.Edm.resources.dll
+d:\Мои документы\Visual Studio 2013\Projects\AngularApp\AngularApp\bin\fr\Microsoft.Data.Edm.resources.dll
+d:\Мои документы\Visual Studio 2013\Projects\AngularApp\AngularApp\bin\it\Microsoft.Data.Edm.resources.dll
+d:\Мои документы\Visual Studio 2013\Projects\AngularApp\AngularApp\bin\ja\Microsoft.Data.Edm.resources.dll
+d:\Мои документы\Visual Studio 2013\Projects\AngularApp\AngularApp\bin\ko\Microsoft.Data.Edm.resources.dll
+d:\Мои документы\Visual Studio 2013\Projects\AngularApp\AngularApp\bin\ru\Microsoft.Data.Edm.resources.dll
+d:\Мои документы\Visual Studio 2013\Projects\AngularApp\AngularApp\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+d:\Мои документы\Visual Studio 2013\Projects\AngularApp\AngularApp\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+d:\Мои документы\Visual Studio 2013\Projects\AngularApp\AngularApp\bin\de\Microsoft.Data.OData.resources.dll
+d:\Мои документы\Visual Studio 2013\Projects\AngularApp\AngularApp\bin\es\Microsoft.Data.OData.resources.dll
+d:\Мои документы\Visual Studio 2013\Projects\AngularApp\AngularApp\bin\fr\Microsoft.Data.OData.resources.dll
+d:\Мои документы\Visual Studio 2013\Projects\AngularApp\AngularApp\bin\it\Microsoft.Data.OData.resources.dll
+d:\Мои документы\Visual Studio 2013\Projects\AngularApp\AngularApp\bin\ja\Microsoft.Data.OData.resources.dll
+d:\Мои документы\Visual Studio 2013\Projects\AngularApp\AngularApp\bin\ko\Microsoft.Data.OData.resources.dll
+d:\Мои документы\Visual Studio 2013\Projects\AngularApp\AngularApp\bin\ru\Microsoft.Data.OData.resources.dll
+d:\Мои документы\Visual Studio 2013\Projects\AngularApp\AngularApp\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+d:\Мои документы\Visual Studio 2013\Projects\AngularApp\AngularApp\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+d:\Мои документы\Visual Studio 2013\Projects\AngularApp\AngularApp\bin\de\System.Spatial.resources.dll
+d:\Мои документы\Visual Studio 2013\Projects\AngularApp\AngularApp\bin\es\System.Spatial.resources.dll
+d:\Мои документы\Visual Studio 2013\Projects\AngularApp\AngularApp\bin\fr\System.Spatial.resources.dll
+d:\Мои документы\Visual Studio 2013\Projects\AngularApp\AngularApp\bin\it\System.Spatial.resources.dll
+d:\Мои документы\Visual Studio 2013\Projects\AngularApp\AngularApp\bin\ja\System.Spatial.resources.dll
+d:\Мои документы\Visual Studio 2013\Projects\AngularApp\AngularApp\bin\ko\System.Spatial.resources.dll
+d:\Мои документы\Visual Studio 2013\Projects\AngularApp\AngularApp\bin\ru\System.Spatial.resources.dll
+d:\Мои документы\Visual Studio 2013\Projects\AngularApp\AngularApp\bin\zh-Hans\System.Spatial.resources.dll
+d:\Мои документы\Visual Studio 2013\Projects\AngularApp\AngularApp\bin\zh-Hant\System.Spatial.resources.dll
+d:\Мои документы\Visual Studio 2013\Projects\AngularApp\AngularApp\obj\Debug\AngularApp.dll
+d:\Мои документы\Visual Studio 2013\Projects\AngularApp\AngularApp\obj\Debug\AngularApp.pdb
+D:\Projects\experience\AngularApp\AngularApp\bin\AngularApp.dll.config
+D:\Projects\experience\AngularApp\AngularApp\bin\AngularApp.dll
+D:\Projects\experience\AngularApp\AngularApp\bin\AngularApp.pdb
+D:\Projects\experience\AngularApp\AngularApp\bin\Antlr3.Runtime.dll
+D:\Projects\experience\AngularApp\AngularApp\bin\DotNetOpenAuth.AspNet.dll
+D:\Projects\experience\AngularApp\AngularApp\bin\DotNetOpenAuth.Core.dll
+D:\Projects\experience\AngularApp\AngularApp\bin\DotNetOpenAuth.OAuth.Consumer.dll
+D:\Projects\experience\AngularApp\AngularApp\bin\DotNetOpenAuth.OAuth.dll
+D:\Projects\experience\AngularApp\AngularApp\bin\DotNetOpenAuth.OpenId.dll
+D:\Projects\experience\AngularApp\AngularApp\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\Projects\experience\AngularApp\AngularApp\bin\EntityFramework.dll
+D:\Projects\experience\AngularApp\AngularApp\bin\Microsoft.Data.Edm.dll
+D:\Projects\experience\AngularApp\AngularApp\bin\Microsoft.Data.OData.dll
+D:\Projects\experience\AngularApp\AngularApp\bin\Microsoft.Web.Infrastructure.dll
+D:\Projects\experience\AngularApp\AngularApp\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\Projects\experience\AngularApp\AngularApp\bin\Microsoft.Web.WebPages.OAuth.dll
+D:\Projects\experience\AngularApp\AngularApp\bin\Newtonsoft.Json.dll
+D:\Projects\experience\AngularApp\AngularApp\bin\System.Spatial.dll
+D:\Projects\experience\AngularApp\AngularApp\bin\System.Web.Helpers.dll
+D:\Projects\experience\AngularApp\AngularApp\bin\System.Web.Http.OData.dll
+D:\Projects\experience\AngularApp\AngularApp\bin\System.Web.Mvc.dll
+D:\Projects\experience\AngularApp\AngularApp\bin\System.Web.Optimization.dll
+D:\Projects\experience\AngularApp\AngularApp\bin\System.Web.Razor.dll
+D:\Projects\experience\AngularApp\AngularApp\bin\System.Web.WebPages.Deployment.dll
+D:\Projects\experience\AngularApp\AngularApp\bin\System.Web.WebPages.dll
+D:\Projects\experience\AngularApp\AngularApp\bin\System.Web.WebPages.Razor.dll
+D:\Projects\experience\AngularApp\AngularApp\bin\WebGrease.dll
+D:\Projects\experience\AngularApp\AngularApp\bin\WebMatrix.Data.dll
+D:\Projects\experience\AngularApp\AngularApp\bin\WebMatrix.WebData.dll
+D:\Projects\experience\AngularApp\AngularApp\bin\EntityFramework.xml
+D:\Projects\experience\AngularApp\AngularApp\bin\Newtonsoft.Json.xml
+D:\Projects\experience\AngularApp\AngularApp\bin\System.Web.Helpers.xml
+D:\Projects\experience\AngularApp\AngularApp\bin\System.Web.Mvc.xml
+D:\Projects\experience\AngularApp\AngularApp\bin\System.Web.Razor.xml
+D:\Projects\experience\AngularApp\AngularApp\bin\System.Web.WebPages.xml
+D:\Projects\experience\AngularApp\AngularApp\bin\System.Web.WebPages.Deployment.xml
+D:\Projects\experience\AngularApp\AngularApp\bin\System.Web.WebPages.Razor.xml
+D:\Projects\experience\AngularApp\AngularApp\bin\WebMatrix.Data.xml
+D:\Projects\experience\AngularApp\AngularApp\bin\Microsoft.Web.WebPages.OAuth.xml
+D:\Projects\experience\AngularApp\AngularApp\bin\WebMatrix.WebData.xml
+D:\Projects\experience\AngularApp\AngularApp\bin\DotNetOpenAuth.AspNet.xml
+D:\Projects\experience\AngularApp\AngularApp\bin\DotNetOpenAuth.Core.xml
+D:\Projects\experience\AngularApp\AngularApp\bin\DotNetOpenAuth.OAuth.Consumer.xml
+D:\Projects\experience\AngularApp\AngularApp\bin\DotNetOpenAuth.OAuth.xml
+D:\Projects\experience\AngularApp\AngularApp\bin\DotNetOpenAuth.OpenId.xml
+D:\Projects\experience\AngularApp\AngularApp\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\Projects\experience\AngularApp\AngularApp\bin\System.Web.Http.OData.xml
+D:\Projects\experience\AngularApp\AngularApp\bin\Microsoft.Data.Edm.xml
+D:\Projects\experience\AngularApp\AngularApp\bin\Microsoft.Data.OData.xml
+D:\Projects\experience\AngularApp\AngularApp\bin\System.Spatial.xml
+D:\Projects\experience\AngularApp\AngularApp\bin\de\Microsoft.Data.Edm.resources.dll
+D:\Projects\experience\AngularApp\AngularApp\bin\es\Microsoft.Data.Edm.resources.dll
+D:\Projects\experience\AngularApp\AngularApp\bin\fr\Microsoft.Data.Edm.resources.dll
+D:\Projects\experience\AngularApp\AngularApp\bin\it\Microsoft.Data.Edm.resources.dll
+D:\Projects\experience\AngularApp\AngularApp\bin\ja\Microsoft.Data.Edm.resources.dll
+D:\Projects\experience\AngularApp\AngularApp\bin\ko\Microsoft.Data.Edm.resources.dll
+D:\Projects\experience\AngularApp\AngularApp\bin\ru\Microsoft.Data.Edm.resources.dll
+D:\Projects\experience\AngularApp\AngularApp\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\Projects\experience\AngularApp\AngularApp\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\Projects\experience\AngularApp\AngularApp\bin\de\Microsoft.Data.OData.resources.dll
+D:\Projects\experience\AngularApp\AngularApp\bin\es\Microsoft.Data.OData.resources.dll
+D:\Projects\experience\AngularApp\AngularApp\bin\fr\Microsoft.Data.OData.resources.dll
+D:\Projects\experience\AngularApp\AngularApp\bin\it\Microsoft.Data.OData.resources.dll
+D:\Projects\experience\AngularApp\AngularApp\bin\ja\Microsoft.Data.OData.resources.dll
+D:\Projects\experience\AngularApp\AngularApp\bin\ko\Microsoft.Data.OData.resources.dll
+D:\Projects\experience\AngularApp\AngularApp\bin\ru\Microsoft.Data.OData.resources.dll
+D:\Projects\experience\AngularApp\AngularApp\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\Projects\experience\AngularApp\AngularApp\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\Projects\experience\AngularApp\AngularApp\bin\de\System.Spatial.resources.dll
+D:\Projects\experience\AngularApp\AngularApp\bin\es\System.Spatial.resources.dll
+D:\Projects\experience\AngularApp\AngularApp\bin\fr\System.Spatial.resources.dll
+D:\Projects\experience\AngularApp\AngularApp\bin\it\System.Spatial.resources.dll
+D:\Projects\experience\AngularApp\AngularApp\bin\ja\System.Spatial.resources.dll
+D:\Projects\experience\AngularApp\AngularApp\bin\ko\System.Spatial.resources.dll
+D:\Projects\experience\AngularApp\AngularApp\bin\ru\System.Spatial.resources.dll
+D:\Projects\experience\AngularApp\AngularApp\bin\zh-Hans\System.Spatial.resources.dll
+D:\Projects\experience\AngularApp\AngularApp\bin\zh-Hant\System.Spatial.resources.dll
+D:\Projects\experience\AngularApp\AngularApp\obj\Debug\AngularApp.csprojResolveAssemblyReference.cache
+D:\Projects\experience\AngularApp\AngularApp\obj\Debug\AngularApp.dll
+D:\Projects\experience\AngularApp\AngularApp\obj\Debug\AngularApp.pdb
+C:\GitProjects\web\AngularApp\AngularApp\bin\AngularApp.dll.config
+C:\GitProjects\web\AngularApp\AngularApp\bin\AngularApp.dll
+C:\GitProjects\web\AngularApp\AngularApp\bin\AngularApp.pdb
+C:\GitProjects\web\AngularApp\AngularApp\bin\Antlr3.Runtime.dll
+C:\GitProjects\web\AngularApp\AngularApp\bin\DotNetOpenAuth.AspNet.dll
+C:\GitProjects\web\AngularApp\AngularApp\bin\DotNetOpenAuth.Core.dll
+C:\GitProjects\web\AngularApp\AngularApp\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\GitProjects\web\AngularApp\AngularApp\bin\DotNetOpenAuth.OAuth.dll
+C:\GitProjects\web\AngularApp\AngularApp\bin\DotNetOpenAuth.OpenId.dll
+C:\GitProjects\web\AngularApp\AngularApp\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\GitProjects\web\AngularApp\AngularApp\bin\EntityFramework.dll
+C:\GitProjects\web\AngularApp\AngularApp\bin\Microsoft.Data.Edm.dll
+C:\GitProjects\web\AngularApp\AngularApp\bin\Microsoft.Data.OData.dll
+C:\GitProjects\web\AngularApp\AngularApp\bin\Microsoft.Web.Infrastructure.dll
+C:\GitProjects\web\AngularApp\AngularApp\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\GitProjects\web\AngularApp\AngularApp\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\GitProjects\web\AngularApp\AngularApp\bin\Newtonsoft.Json.dll
+C:\GitProjects\web\AngularApp\AngularApp\bin\System.Net.Http.Formatting.dll
+C:\GitProjects\web\AngularApp\AngularApp\bin\System.Spatial.dll
+C:\GitProjects\web\AngularApp\AngularApp\bin\System.Web.Helpers.dll
+C:\GitProjects\web\AngularApp\AngularApp\bin\System.Web.Http.dll
+C:\GitProjects\web\AngularApp\AngularApp\bin\System.Web.Http.OData.dll
+C:\GitProjects\web\AngularApp\AngularApp\bin\System.Web.Http.WebHost.dll
+C:\GitProjects\web\AngularApp\AngularApp\bin\System.Web.Mvc.dll
+C:\GitProjects\web\AngularApp\AngularApp\bin\System.Web.Optimization.dll
+C:\GitProjects\web\AngularApp\AngularApp\bin\System.Web.Razor.dll
+C:\GitProjects\web\AngularApp\AngularApp\bin\System.Web.WebPages.Deployment.dll
+C:\GitProjects\web\AngularApp\AngularApp\bin\System.Web.WebPages.dll
+C:\GitProjects\web\AngularApp\AngularApp\bin\System.Web.WebPages.Razor.dll
+C:\GitProjects\web\AngularApp\AngularApp\bin\WebGrease.dll
+C:\GitProjects\web\AngularApp\AngularApp\bin\WebMatrix.WebData.dll
+C:\GitProjects\web\AngularApp\AngularApp\bin\EntityFramework.xml
+C:\GitProjects\web\AngularApp\AngularApp\bin\Newtonsoft.Json.xml
+C:\GitProjects\web\AngularApp\AngularApp\bin\System.Net.Http.Formatting.xml
+C:\GitProjects\web\AngularApp\AngularApp\bin\System.Web.Helpers.xml
+C:\GitProjects\web\AngularApp\AngularApp\bin\System.Web.Http.xml
+C:\GitProjects\web\AngularApp\AngularApp\bin\System.Web.Http.WebHost.xml
+C:\GitProjects\web\AngularApp\AngularApp\bin\System.Web.Mvc.xml
+C:\GitProjects\web\AngularApp\AngularApp\bin\System.Web.Razor.xml
+C:\GitProjects\web\AngularApp\AngularApp\bin\System.Web.WebPages.xml
+C:\GitProjects\web\AngularApp\AngularApp\bin\System.Web.WebPages.Deployment.xml
+C:\GitProjects\web\AngularApp\AngularApp\bin\System.Web.WebPages.Razor.xml
+C:\GitProjects\web\AngularApp\AngularApp\bin\WebMatrix.Data.xml
+C:\GitProjects\web\AngularApp\AngularApp\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\GitProjects\web\AngularApp\AngularApp\bin\WebMatrix.WebData.xml
+C:\GitProjects\web\AngularApp\AngularApp\bin\DotNetOpenAuth.AspNet.xml
+C:\GitProjects\web\AngularApp\AngularApp\bin\DotNetOpenAuth.Core.xml
+C:\GitProjects\web\AngularApp\AngularApp\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\GitProjects\web\AngularApp\AngularApp\bin\DotNetOpenAuth.OAuth.xml
+C:\GitProjects\web\AngularApp\AngularApp\bin\DotNetOpenAuth.OpenId.xml
+C:\GitProjects\web\AngularApp\AngularApp\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\GitProjects\web\AngularApp\AngularApp\bin\System.Web.Http.OData.xml
+C:\GitProjects\web\AngularApp\AngularApp\bin\Microsoft.Data.Edm.xml
+C:\GitProjects\web\AngularApp\AngularApp\bin\Microsoft.Data.OData.xml
+C:\GitProjects\web\AngularApp\AngularApp\bin\System.Spatial.xml
+C:\GitProjects\web\AngularApp\AngularApp\bin\de\Microsoft.Data.Edm.resources.dll
+C:\GitProjects\web\AngularApp\AngularApp\bin\es\Microsoft.Data.Edm.resources.dll
+C:\GitProjects\web\AngularApp\AngularApp\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\GitProjects\web\AngularApp\AngularApp\bin\it\Microsoft.Data.Edm.resources.dll
+C:\GitProjects\web\AngularApp\AngularApp\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\GitProjects\web\AngularApp\AngularApp\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\GitProjects\web\AngularApp\AngularApp\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\GitProjects\web\AngularApp\AngularApp\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\GitProjects\web\AngularApp\AngularApp\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\GitProjects\web\AngularApp\AngularApp\bin\de\Microsoft.Data.OData.resources.dll
+C:\GitProjects\web\AngularApp\AngularApp\bin\es\Microsoft.Data.OData.resources.dll
+C:\GitProjects\web\AngularApp\AngularApp\bin\fr\Microsoft.Data.OData.resources.dll
+C:\GitProjects\web\AngularApp\AngularApp\bin\it\Microsoft.Data.OData.resources.dll
+C:\GitProjects\web\AngularApp\AngularApp\bin\ja\Microsoft.Data.OData.resources.dll
+C:\GitProjects\web\AngularApp\AngularApp\bin\ko\Microsoft.Data.OData.resources.dll
+C:\GitProjects\web\AngularApp\AngularApp\bin\ru\Microsoft.Data.OData.resources.dll
+C:\GitProjects\web\AngularApp\AngularApp\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\GitProjects\web\AngularApp\AngularApp\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\GitProjects\web\AngularApp\AngularApp\bin\de\System.Spatial.resources.dll
+C:\GitProjects\web\AngularApp\AngularApp\bin\es\System.Spatial.resources.dll
+C:\GitProjects\web\AngularApp\AngularApp\bin\fr\System.Spatial.resources.dll
+C:\GitProjects\web\AngularApp\AngularApp\bin\it\System.Spatial.resources.dll
+C:\GitProjects\web\AngularApp\AngularApp\bin\ja\System.Spatial.resources.dll
+C:\GitProjects\web\AngularApp\AngularApp\bin\ko\System.Spatial.resources.dll
+C:\GitProjects\web\AngularApp\AngularApp\bin\ru\System.Spatial.resources.dll
+C:\GitProjects\web\AngularApp\AngularApp\bin\zh-Hans\System.Spatial.resources.dll
+C:\GitProjects\web\AngularApp\AngularApp\bin\zh-Hant\System.Spatial.resources.dll
+C:\GitProjects\web\AngularApp\AngularApp\obj\Debug\AngularApp.csprojResolveAssemblyReference.cache
+C:\GitProjects\web\AngularApp\AngularApp\obj\Debug\AngularApp.dll
+C:\GitProjects\web\AngularApp\AngularApp\obj\Debug\AngularApp.pdb

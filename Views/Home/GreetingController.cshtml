@@ -1,0 +1,26 @@
+﻿@{
+    ViewBag.Title = "GreetingController";
+    ViewBag.app = "myApp";
+}
+
+<h2>GreetingController</h2>
+
+<body ng-controller="GreetingController">
+    {{greeting}} User! The current date/time is <span>{{now | date:'medium'}}</span>.
+
+    <br />
+    <button ng-click="getRandomHelloMessage()">Random Hello Message</button>
+</body>
+
+
+<script>
+    angular.module('myApp', []).controller('GreetingController', function ($rootScope, $scope) {
+        $scope.now = new Date(); //set the model 'now' on scope
+        $scope.helloMessages = ['Hello', 'Bonjour', 'Hola', 'Ciao','Hallo'];
+        $scope.greeting = $scope.helloMessages[0];
+        $scope.getRandomHelloMessage = function() {
+            $scope.greeting = $scope.helloMessages[parseInt((Math.random() * $scope.helloMessages.length))];
+
+        }});
+
+</script>

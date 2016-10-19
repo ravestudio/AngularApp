@@ -1,0 +1,58 @@
+﻿@{
+    ViewBag.Title = "MultipleViews";
+    ViewBag.app = "myApp";
+}
+
+@section Header{
+    <base href="/Home/MultipleViews/">
+}
+
+<h2>MultipleViews</h2>
+
+<body>
+    <ul class="menu">
+        <li><a href="view1">view1</a></li>
+        <li><a href="view2">view2</a></li>
+    </ul>
+    <ng-view></ng-view>
+</body>
+
+<script>
+
+    angular.module('myApp', [
+        'myApp.controllers',
+        'ngRoute'
+    ]);
+
+    angular.module('myApp').config(function ($routeProvider, $locationProvider) {
+        $routeProvider.when('/view1', {
+            controller: 'Controller1',
+            templateUrl: '@Url.Content("~/partials/view1.html")'
+        }).when('/view2/:firstname/:lastname', {
+            controller: 'Controller2',
+            templateUrl: '@Url.Content("~/partials/view2.html")',
+            resolve: {
+                names: function () {
+                    //typically you will use a service to retrieve values from the server here
+                    return ['Misko', 'Vojta', 'Brad']; //this is used as dependency value
+                }
+            }
+        });
+        $locationProvider.html5Mode(true);
+    });
+
+    angular.module('myApp.controllers', []).controller('Controller1', function ($scope, $location) {
+        $scope.message = "Hello, world";
+
+        $scope.loadView2 = function () {
+            $location.path('/view2/' + $scope.firstname + '/' + $scope.lastname);
+        }
+    }).controller('Controller2', function ($scope, $routeParams, names) {
+        $scope.firstname = $routeParams.firstname;
+        $scope.lastname = $routeParams.lastname;
+        $scope.names = names;
+
+        $scope.now=new Date();
+    });
+
+</script>
