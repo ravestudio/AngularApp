@@ -1,0 +1,39 @@
+﻿@{
+    ViewBag.Title = "AngularJS Form Validation ng-form";
+    ViewBag.app = "myApp";
+}
+
+<style>
+    .error-message {
+        color: red;
+    }
+
+    input.ng-dirty.ng-invalid {
+        border-color: red;
+    }
+</style>
+
+<h2>ngform</h2>
+
+<body ng-controller="MainController">
+    <form name="outer">
+
+        <div ng-repeat="item in items" ng-form="inner">
+            Name:<input ng-model="item.name" name="name" ng-required="true"/>
+            <span class="error-message" ng-show="inner.name.$dirty && inner.name.$invalid">Name is required</span>
+            <br />Price:
+            <input ng-model="item.price" name="price" ng-required="true"/>
+            <span class="error-message" ng-show="inner.price.$dirty && inner.price.$invalid">Price is required</span>
+            <hr />
+        </div>
+
+    </form>
+</body>
+
+<script>
+
+    angular.module('myApp', []).controller('MainController', function ($scope) {
+        $scope.items = [{ name: 'ART60007', price: 230.5 }, { name: 'ART60045', price: 120 }, { name: 'ARY70000', price: 50 }]
+    });
+
+</script>

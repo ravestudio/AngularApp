@@ -314,6 +314,9 @@
     <Content Include="Views\Home\UIRoutting.cshtml" />
     <Content Include="Views\Blogger\Index.cshtml" />
     <Content Include="Views\Home\Validation.cshtml" />
+    <Content Include="Views\Home\ngform.cshtml" />
+    <Content Include="Views\Home\Promise.cshtml" />
+    <Content Include="Views\Home\WeatherService.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />

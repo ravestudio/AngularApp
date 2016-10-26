@@ -73,5 +73,20 @@ namespace AngularApp.Controllers
         {
             return View();
         }
+
+        public ActionResult ngform()
+        {
+            return View();
+        }
+
+        public ActionResult Promise()
+        {
+            return View();
+        }
+
+        public ActionResult WeatherService()
+        {
+            return View();
+        }
     }
 }

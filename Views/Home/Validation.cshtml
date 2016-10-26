@@ -23,7 +23,7 @@
 
 
 <body ng-controller="UserController">
-    <form name="myform" novalidate>
+    <form name="myform" novalidate ng-submit="saveUser()">
         First Name:
         <input type="text" name="firstname" ng-model="user.firstname" ng-required="true" ng-minlength="2" />
         <span class="error-message" ng-show="myform.firstname.$dirty&& myform.firstname.$error.required">The First Name is Mandatory</span>
@@ -36,6 +36,7 @@
         <input type="text" name="phoneNumber" ng-model="user.phoneNumber" ng-maxlength="10" ng-minlength="10" ng-pattern="/^\d{10}$/" />
         <span class="error-message" ng-show="myform.phoneNumber.$dirty&& myform.phoneNumber.$invalid">The phone number field should be of 10 digits</span>
         <br />
+        <input type="submit" value="Save" />
     </form>
 </body>
 
@@ -43,6 +44,14 @@
 
     angular.module('myApp', []).controller('UserController', function($scope) {
         $scope.user = {};
+        $scope.saveUser = function () {
+            if ($scope.myform.$valid)
+                console.log('saving user'); // save $scope.user object
+            else
+                console.log('Unable to save. Validation error!');
+        }
+    }).controller('MainController', function ($scope) {
+        $scope.items = [{ name: 'ART60007', price: 230.5 }, { name: 'ART60045', price: 120 }, { name: 'ARY70000', price: 50 }]
     });
 
 </script>

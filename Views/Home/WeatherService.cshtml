@@ -1,0 +1,42 @@
+﻿@{
+    ViewBag.Title = "AngularJS WeatherService";
+    ViewBag.app = "mainApp";
+}
+
+<h2>WeatherService</h2>
+
+<body ng-controller="WeatherController">
+    City :
+    <input type="text" ng-model="city" placeholder="Enter city name here" />Country:
+    <input type="text" ng-model="country" placeholder="Enter country name here" />
+    <button ng-click="getWeather()">Get Weather</button>
+    <br />
+    <br />
+    <b>Weather Condition:</b> <span>{{weatherDescription}}</span>
+</body>
+
+<script>
+    angular.module('mainApp', []).factory('weatherService', function ($http) {
+        return {
+            getWeather: function (city, country) {
+                var query = city + ',' + country;
+                return $http.get('http://api.openweathermap.org/data/2.5/weather', { params: { q: query, APPID : '3eb1ec078a89ad7fdc3131b3c45350f8' } })
+                    .then(function (response) { //then() returns a promise which is resolved with return value of success callback
+                        return response.data.weather[0].description; ///extract weather data
+                    });
+            }
+        }
+    });
+
+    angular.module('mainApp').controller('WeatherController', function ($scope, weatherService) {
+        $scope.getWeather = function () {
+            $scope.weatherDescription = "Fetching . . .";
+            weatherService.getWeather($scope.city, $scope.country).then(function (data) {
+                $scope.weatherDescription = data;
+            }, function () {
+                $scope.weatherDescription = "Could not obtain data";
+            });
+        }
+    });
+    
+</script>
